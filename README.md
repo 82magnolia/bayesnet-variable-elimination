@@ -1,5 +1,5 @@
 # bayesnet-variable-elimination
-MATLAB implementation of variable elimination in bayesian networks. Since variable elimination is strictly based on factors, it is also possible to use the implementation on MRFs, CRFs, etc.
+MATLAB implementation of variable elimination in bayesian networks. Since variable elimination is essentially based on factors, it is also possible to use the implementation on MRFs, CRFs, etc.
 # Run a demo
 Clone the github repository and try running calculate_example1.m and calculate_example2.m. These codes will produce conditionals probabilities of P(B|J,M) and P(E|J,M) for the Bayesian network provided in 'calc_example_bayesnet'.
 # Implementation details
