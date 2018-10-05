@@ -41,3 +41,5 @@ ans =
 
 
 %}
+% To run an actual demo, clone the following gitbut repositoty:
+% https://github.com/82magnolia/bayesnet-variable-elimination.git

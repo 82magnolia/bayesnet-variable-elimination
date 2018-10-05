@@ -41,3 +41,5 @@ ans =
 
 'TNNFF' indicates p(B=T|J=F,M=F) and so on
 %}
+% To run an actual demo, clone the following gitbut repositoty:
+% https://github.com/82magnolia/bayesnet-variable-elimination.git
