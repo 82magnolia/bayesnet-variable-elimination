@@ -17,5 +17,6 @@ else
         new_value(i) = factor(T_key)+factor(F_key);
     end
     simp_factor = containers.Map(new_keys,new_value);
+    simp_factor;
 end
 end
